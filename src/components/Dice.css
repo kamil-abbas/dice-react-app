@@ -1,0 +1,18 @@
+#root{
+    display: flex;
+    justify-content: center;
+}
+
+.dice{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+
+h1{
+    font-size: 4rem;
+}
